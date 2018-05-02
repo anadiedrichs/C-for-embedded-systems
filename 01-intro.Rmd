@@ -1,0 +1,28 @@
+# Introducción a C {#intro}
+
+Recomendaciones generales
+
+* Escribir y usar código reutilizable
+* Ser consistente al nombrar funciones, variables, constantes
+* Ver [este enlace](https://github.com/cogrhythms/good-coding-practices/wiki/C-and-C-plus-plus-Best-Practices)
+
+Para una intro en C [ver este sitio](https://www.learn-c.org/)
+## Constantes
+
+## Definición de Tipos de datos
+
+## Funciones
+
+## Recursión
+
+ver C engines en [apunte](https://yihui.name/knitr/demo/engines/)
+```{r, engine='c', results='hide'}
+int fibonacci(const int x) {
+    if (x == 0 || x == 1) return(x);
+    return (fibonacci(x - 1)) + fibonacci(x - 2);
+}
+
+//fibonacci(10)
+//fibonacci(20)
+```
+

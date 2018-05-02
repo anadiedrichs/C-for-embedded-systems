@@ -1,0 +1,4 @@
+# Máquinas de estado
+
+ejemplo [en este link](http://diwo.bq.com/maquinas-de-estado-switch-case/)
+y este otro [enlace también](http://johnsantic.com/comp/state.html),[este](https://yakking.branchable.com/posts/state-machines-in-c/)

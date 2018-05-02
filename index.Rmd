@@ -1,0 +1,18 @@
+--- 
+title: "Buenas prácticas en lenguaje C para sistemas embebidos"
+author: "Ana Laura Diedrichs"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Este libro contiene una introducción a C para quienes programen (o quieran programar) en sistemas embebidos. Los capítulos son algunos apuntes e introducciones que sirven de guía a los estudiantes"
+---
+
+En este libro veremos un resumen de las buenas prácticas de programación
+en C para sistemas embebidos. Incluye recomendaciones, ejemplos en C y resolución de ejercicios.
+
+El material para aprender desde cero C abunda en libros, foros, tutoriales, entre otros. TODO por qué es importante este libro

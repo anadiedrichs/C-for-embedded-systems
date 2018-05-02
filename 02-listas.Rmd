@@ -1,0 +1,11 @@
+# Listas enlazadas y Buffers
+
+## FIFO
+
+## LIFO
+
+## Buffers circulares
+
+Ver [este enlace](https://embeddedartistry.com/blog/2017/4/6/circular-buffers-in-cc)
+
+
