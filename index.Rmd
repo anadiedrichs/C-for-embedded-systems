@@ -12,6 +12,8 @@ github-repo: rstudio/bookdown-demo
 description: "Este libro contiene una introducción a C para quienes programen (o quieran programar) en sistemas embebidos. Los capítulos son algunos apuntes e introducciones que sirven de guía a los estudiantes"
 ---
 
+# Sobre este libro
+
 En este libro veremos un resumen de las buenas prácticas de programación
 en C para sistemas embebidos. Incluye recomendaciones, ejemplos en C y resolución de ejercicios.
 
